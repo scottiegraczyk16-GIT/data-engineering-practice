@@ -1,5 +1,0 @@
-pandas
-duckdb
-pyarrow
-pytest
-ruff
