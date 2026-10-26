@@ -1,0 +1,11 @@
+image_id,capture_time,width,height,label,confidence,file_path
+IMG001,2026-10-20T10:00:00Z,1920,1080,Vehicle,0.98,images/IMG001.jpg
+IMG002,2026-10-20T10:01:00Z,1280,720,Person,0.94,images/IMG002.jpg
+IMG003,2026-10-20T10:02:00Z,640,480,vehicle,0.87,images/IMG003.jpg
+IMG004,2026-10-20T10:03:00Z,0,720,Person,0.75,images/IMG004.jpg
+IMG005,2026-10-20T10:04:00Z,1920,1080,,0.91,images/IMG005.jpg
+IMG002,2026-10-20T10:05:00Z,1280,720,Person,0.94,images/IMG002.jpg
+IMG006,2026-10-20T10:06:00Z,800,600,Animal,1.5,images/IMG006.jpg
+IMG007,not-a-date,800,600,Vehicle,0.82,images/IMG007.jpg
+IMG008,2026-10-20T10:08:00Z,1024,768,Person,0.88,images/IMG008.jpg
+IMG009,2026-10-20T10:09:00Z,640,480,person,0.67,images/IMG009.jpg

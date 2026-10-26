@@ -1,0 +1,5 @@
+image_id,capture_time,width,height,label,confidence,file_path,rejection_reason,pixel_count
+IMG001,2026-10-20 10:00:00+00:00,1920,1080,vehicle,0.98,images/IMG001.jpg,,2073600
+IMG003,2026-10-20 10:02:00+00:00,640,480,vehicle,0.87,images/IMG003.jpg,,307200
+IMG008,2026-10-20 10:08:00+00:00,1024,768,person,0.88,images/IMG008.jpg,,786432
+IMG009,2026-10-20 10:09:00+00:00,640,480,person,0.67,images/IMG009.jpg,,307200

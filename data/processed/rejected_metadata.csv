@@ -1,0 +1,7 @@
+image_id,capture_time,width,height,label,confidence,file_path,rejection_reason
+IMG002,2026-10-20 10:01:00+00:00,1280,720,person,0.94,images/IMG002.jpg,duplicate_image_id
+IMG004,2026-10-20 10:03:00+00:00,0,720,person,0.75,images/IMG004.jpg,invalid_width
+IMG005,2026-10-20 10:04:00+00:00,1920,1080,,0.91,images/IMG005.jpg,missing_label
+IMG002,2026-10-20 10:05:00+00:00,1280,720,person,0.94,images/IMG002.jpg,duplicate_image_id
+IMG006,2026-10-20 10:06:00+00:00,800,600,animal,1.5,images/IMG006.jpg,invalid_confidence
+IMG007,,800,600,vehicle,0.82,images/IMG007.jpg,invalid_capture_time
